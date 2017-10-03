@@ -50,6 +50,8 @@ public class Graphics extends GraphicsProgram {
 		GLine Line = new GLine(0,100,100,100);
 		Line.setColor(Color.RED);
 		add(Line);
+		//Comments
+                //Comments
 	}
 	
 }
