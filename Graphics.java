@@ -51,6 +51,7 @@ public class Graphics extends GraphicsProgram {
 		Line.setColor(Color.RED);
 		add(Line);
 		//Commit from Remote
+		//Commit from Local 
 	}
 	
 }
