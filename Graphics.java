@@ -51,7 +51,8 @@ public class Graphics extends GraphicsProgram {
 		Line.setColor(Color.RED);
 		add(Line);
 		//Comments
-                //Comments
+        //Comments
+		//Cooments
 	}
 	
 }
