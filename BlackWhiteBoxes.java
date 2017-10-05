@@ -22,7 +22,7 @@ public void run()
 		}
 	}
 	
-	/*GRect Rect2 = new GRect(200,200,400,400);
+	GRect Rect2 = new GRect(200,200,400,400);
 	int Sqsize2 = (int) Rect2.getHeight();
 	for(int k =0; k <Rows ; k++)
 	{
@@ -34,7 +34,7 @@ public void run()
 			Rect2.setFilled(((k+l)%2) == 0);
 			add(Rect2);
 		}
-	}*/
+	}
 		
 	
 	
